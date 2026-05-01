@@ -95,4 +95,4 @@ Backend: Railway
 
 ## Author
 
-Vidyasagar Sonkar
+Priansu Kumar Rai
